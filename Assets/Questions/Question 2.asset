@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: Enter new question text here
   answers:
-  - 
-  - 
-  - 
-  - 
+  - 2
+  - 2
+  - 3
+  - 3
+  correctAnswerIndex: 0
